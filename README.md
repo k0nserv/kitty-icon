@@ -1,6 +1,6 @@
 # Kitty App Icon 
 
-![](./icon_512x512@2x.png)
+![](./icon_512x512.png)
 
 An alternative app icon for [Kitty](https://sw.kovidgoyal.net/kitty/).
 
