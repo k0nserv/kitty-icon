@@ -16,4 +16,4 @@ $ rm /var/folders/*/*/*/com.apple.dock.iconcache; killall Dock
 
 ## Other alternatives
 
-* [Icon by DinkDon](https://github.com/DinkDonk/kitty-icon)
+* [Icon by DinkDonk](https://github.com/DinkDonk/kitty-icon)
