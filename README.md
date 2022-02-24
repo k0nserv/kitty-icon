@@ -18,7 +18,11 @@ $ rm /var/folders/*/*/*/com.apple.dock.iconcache; killall Dock
 
 ### Linux
 
-_Please contribute instructions for Linux if you are a Linux user._
+1. Locate the kitty logos in `/usr/lib/kitty/logo`
+2. Backup existing `kitty.png` & `kitty-128.png` (may need to do this as root, depending on how you installed kitty)
+3. Copy `icon_128x128.png` to `/usr/lib/kitty/logo` rename to `kitty-128.png`
+4. Copy `icon_32x32.png` to `/usr/lib/kitty/logo` and rename to `kitty.png`
+5. (optional) Depending on your DE and installation you may need to change the launcher icon. For xfce you can press super + space and search for kitty, right click on the result and click edit application. From there you can swap out the icon with one from this repository.
 
 ### Windows
 
