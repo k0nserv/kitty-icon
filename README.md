@@ -24,10 +24,6 @@ $ rm /var/folders/*/*/*/com.apple.dock.iconcache; killall Dock
 4. Copy `icon_32x32.png` to `/usr/lib/kitty/logo` and rename to `kitty.png`
 5. (optional) Depending on your DE and installation you may need to change the launcher icon. For xfce you can press super + space and search for kitty, right click on the result and click edit application. From there you can swap out the icon with one from this repository.
 
-### Windows
-
-_Please contribute instructions for Windows if you are a Windows user._
-
 ## Other alternatives
 
 * [Icon by DinkDonk](https://github.com/DinkDonk/kitty-icon)
