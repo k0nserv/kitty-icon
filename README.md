@@ -4,6 +4,10 @@
 
 A set of alternative app icons for [Kitty](https://sw.kovidgoyal.net/kitty/).
 
+## Changes
+
+* **2023-07-08** re-exported with P3 display color profile instead of sRGB. Improves color saturation on P3 capable displays.
+
 
 ## Installation
 
