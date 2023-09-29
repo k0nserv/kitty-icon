@@ -18,7 +18,7 @@ A set of alternative app icons for [Kitty](https://sw.kovidgoyal.net/kitty/).
 3. Delete the icon cache and restart `Dock`:
 
 ```bash
-$ rm /var/folders/*/*/*/com.apple.dock.iconcache; killall Dock
+rm /var/folders/*/*/*/com.apple.dock.iconcache; killall Dock
 ```
 
 ### Linux
